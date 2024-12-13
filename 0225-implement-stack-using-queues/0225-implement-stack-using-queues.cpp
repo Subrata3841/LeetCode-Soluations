@@ -1,38 +1,37 @@
 class MyStack {
 private:
-    queue<int>queue1, queue2;
+    queue<int> queue1, queue2;
 public:
-    MyStack() {
-    }
-    
+    MyStack() { }
+
     void push(int x) {
-        queue2.push(x);
-       while(!queue1.empty()){
-        queue2.push(queue1.front());
-        queue1.pop();
-       }
-       swap(queue1, queue2);
+        queue1.push(x); // Push to queue1 directly
     }
-    
+
     int pop() {
-        int x = queue1.front();
-        queue1.pop();
+        while (queue1.size() > 1) {
+            queue2.push(queue1.front()); // Transfer all but the last element
+            queue1.pop();
+        }
+        int x = queue1.front(); // The last element is the stack top
+        queue1.pop(); // Remove it
+        swap(queue1, queue2); // Swap queues
         return x;
     }
+
     int top() {
-        return queue1.front();
+        while (queue1.size() > 1) {
+            queue2.push(queue1.front());
+            queue1.pop();
+        }
+        int x = queue1.front(); // Get the last element
+        queue2.push(x);         // Push it to queue2 to maintain structure
+        queue1.pop();
+        swap(queue1, queue2); // Swap queues
+        return x;
     }
-    
+
     bool empty() {
-       return queue1.empty();
+        return queue1.empty();
     }
 };
-
-/**
- * Your MyStack object will be instantiated and called as such:
- * MyStack* obj = new MyStack();
- * obj->push(x);
- * int param_2 = obj->pop();
- * int param_3 = obj->top();
- * bool param_4 = obj->empty();
- */
