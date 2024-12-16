@@ -14,6 +14,7 @@
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
