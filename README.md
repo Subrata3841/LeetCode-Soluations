@@ -6,6 +6,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0090-subsets-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0232-implement-queue-using-stacks) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
