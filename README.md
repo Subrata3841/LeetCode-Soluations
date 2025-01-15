@@ -44,6 +44,7 @@
 | [0090-subsets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0090-subsets-ii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2509-minimize-xor) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1917-maximum-average-pass-ratio) |
+| [2509-minimize-xor](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
