@@ -159,6 +159,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -168,6 +169,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -176,6 +178,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -184,6 +187,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
