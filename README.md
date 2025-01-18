@@ -126,6 +126,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -171,6 +173,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -189,6 +192,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
