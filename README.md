@@ -19,6 +19,7 @@
 | [2465-shifting-letters-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -58,6 +59,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2685-first-completely-painted-row-or-column) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [2685-first-completely-painted-row-or-column](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
