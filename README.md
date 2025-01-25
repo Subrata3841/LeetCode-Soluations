@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1013-fibonacci-number) |
@@ -254,5 +256,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
