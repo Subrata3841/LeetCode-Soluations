@@ -200,6 +200,7 @@
 | [0684-redundant-connection](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -215,6 +216,7 @@
 | [1036-rotting-oranges](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1036-rotting-oranges) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -240,6 +242,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0684-redundant-connection) |
+| [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## String Matching
 |  |
@@ -283,4 +286,5 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0684-redundant-connection) |
+| [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
