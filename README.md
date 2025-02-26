@@ -204,6 +204,7 @@
 | [0547-number-of-provinces](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
@@ -220,6 +221,7 @@
 | [0547-number-of-provinces](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -251,6 +253,7 @@
 | [0210-course-schedule-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
@@ -307,4 +310,5 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
