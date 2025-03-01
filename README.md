@@ -9,6 +9,7 @@
 | [0120-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -90,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0300-longest-increasing-subsequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -116,6 +118,7 @@
 | [0120-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
