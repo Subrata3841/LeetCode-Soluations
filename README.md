@@ -68,6 +68,7 @@
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2610-closest-prime-numbers-in-range) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -332,4 +333,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0783-search-in-a-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
