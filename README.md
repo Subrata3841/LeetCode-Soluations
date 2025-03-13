@@ -23,6 +23,7 @@
 | [1039-find-the-town-judge](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1039-find-the-town-judge) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -48,6 +49,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -157,6 +159,7 @@
 | [0724-find-pivot-index](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3427-special-array-ii) |
