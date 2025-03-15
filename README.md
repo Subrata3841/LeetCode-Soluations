@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
@@ -189,6 +190,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
