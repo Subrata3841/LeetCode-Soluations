@@ -1,42 +1,34 @@
 class Solution {
 public:
-    void bfsTraversal(vector<vector<int>>& adj, int i, vector<int>& vis, int& node, int& edge) {
-        queue<int> q;
-        vis[i] = true;
-        q.push(i);
-        node = 0;
-        edge = 0;
-
-        while (!q.empty()) {
-            int x = q.front();
-            q.pop();
-            node++;
-
-            for (int e : adj[x]) {
-                edge++;
-                if (!vis[e]) {
-                    vis[e] = true;
-                    q.push(e);
-                }
+    void dfs(int node, vector<vector<int>>& adj, vector<bool>& vis, int& nodes, int& edges) {
+        vis[node] = true;
+        nodes++;
+        edges += adj[node].size();
+        for (int neighbor : adj[node]) {
+            if (!vis[neighbor]) {
+                dfs(neighbor, adj, vis, nodes, edges);
             }
         }
     }
 
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
         vector<vector<int>> adj(n);
+        vector<bool> vis(n, false);
+
+        // Build adjacency list
         for (auto& edge : edges) {
             adj[edge[0]].push_back(edge[1]);
             adj[edge[1]].push_back(edge[0]);
         }
 
-        vector<int> vis(n, false);
         int count = 0;
+        for (int i = 0; i < n; i++) {
+            if (!vis[i]) {
+                int nodes = 0, edgesCount = 0;
+                dfs(i, adj, vis, nodes, edgesCount);
 
-        for (int i = 0; i < n; i++) {  //Loop through all nodes, not edges
-            if (!vis[i]) {  // Only start BFS if the node is unvisited
-                int node = 0, edge = 0;
-                bfsTraversal(adj, i, vis, node, edge);
-                if (node * (node - 1) / 2 == edge / 2) {
+                // Check if the component is complete
+                if (edgesCount == nodes * (nodes - 1)) {
                     count++;
                 }
             }
