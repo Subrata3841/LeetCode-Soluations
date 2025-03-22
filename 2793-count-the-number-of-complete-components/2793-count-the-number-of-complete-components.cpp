@@ -15,7 +15,6 @@ public:
         vector<vector<int>> adj(n);
         vector<bool> vis(n, false);
 
-        // Build adjacency list
         for (auto& edge : edges) {
             adj[edge[0]].push_back(edge[1]);
             adj[edge[1]].push_back(edge[0]);
@@ -26,8 +25,6 @@ public:
             if (!vis[i]) {
                 int nodes = 0, edgesCount = 0;
                 dfs(i, adj, vis, nodes, edgesCount);
-
-                // Check if the component is complete
                 if (edgesCount == nodes * (nodes - 1)) {
                     count++;
                 }
