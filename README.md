@@ -46,6 +46,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3430-count-days-without-meetings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
