@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
@@ -151,6 +152,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -364,6 +366,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
 ## Topological Sort
 |  |
