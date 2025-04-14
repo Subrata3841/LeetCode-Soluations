@@ -10,56 +10,21 @@
  * };
  */
 class Solution {
-// public:
-//     vector<vector<int>> levelOrder(TreeNode* root) {
-//         vector<vector<int>> result;
-//         if(root == NULL) return result;
-//         queue<TreeNode*> q;
-//         q.push(root);
-//         //q.push(NULL);
-//         while(!q.empty()){
-//             int size = q.size();
-//             vector<int> n(size);
-//             for(int i=0;i<size;i++){
-//             TreeNode* temp = q.front();
-//             n[i]= (temp->val);
-//             q.pop();
-           
-//             if(temp->left){
-//                 q.push(temp->left);
-//             }
-//             if(temp->right){
-//                 q.push(temp->right);
-//             }
-//             }
-//             result.push_back(n);
-//         }
-//         return result;
-//     }
-
-    public:
+public:
+int height(TreeNode* root){
+    if(root==NULL)return 0;
+    return max(height(root->left), height(root->right)) + 1;
+}
+void fun(TreeNode* root, int level, vector<vector<int>> &ans){
+    if(root==NULL)return;
+    ans[level].push_back(root->val);
+    fun(root->left, level+1, ans);
+    fun(root->right, level+1, ans);
+}
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> res;
-        if(root == NULL) return {};
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-            int n = q.size();
-            vector<int> currVec;
-            for(int i=0;i<n;i++){
-                TreeNode* curr = q.front();
-                q.pop();
-                currVec.push_back(curr->val);
-            
-            if(curr->left != NULL){
-                q.push(curr->left);
-            }
-            if(curr->right != NULL){
-                q.push(curr->right);
-            }
-            }
-            res.push_back(currVec);
-        }
-        return res;
+        int h = height(root);
+        vector<vector<int>> ans(h);
+        fun(root, 0, ans);
+        return ans;
     }
 };
