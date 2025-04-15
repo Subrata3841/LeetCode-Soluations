@@ -32,6 +32,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2308-divide-array-into-equal-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2465-shifting-letters-ii) |
@@ -132,6 +133,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0300-longest-increasing-subsequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -228,6 +230,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -309,10 +312,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Graph
 |  |
@@ -397,4 +402,12 @@
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3548-find-the-count-of-good-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
