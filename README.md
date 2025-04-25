@@ -87,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0368-largest-divisible-subset) |
@@ -374,6 +375,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2050-count-good-numbers) |
 ## Memoization
@@ -424,4 +426,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
