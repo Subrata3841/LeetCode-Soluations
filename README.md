@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0120-triangle) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -426,6 +428,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0053-maximum-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
