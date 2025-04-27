@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
@@ -199,6 +200,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
@@ -236,6 +238,7 @@
 | [0155-min-stack](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
