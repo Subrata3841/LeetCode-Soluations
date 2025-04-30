@@ -23,6 +23,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0966-binary-subarrays-with-sum) |
@@ -236,6 +237,7 @@
 | [0155-min-stack](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -265,6 +267,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
