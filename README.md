@@ -31,6 +31,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1039-find-the-town-judge) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
@@ -166,6 +167,7 @@
 | [0011-container-with-most-water](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0011-container-with-most-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1917-maximum-average-pass-ratio](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2509-minimize-xor](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2509-minimize-xor) |
