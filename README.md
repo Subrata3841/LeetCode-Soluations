@@ -55,6 +55,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -149,6 +150,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2465-shifting-letters-ii) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -211,6 +213,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Heap (Priority Queue)
