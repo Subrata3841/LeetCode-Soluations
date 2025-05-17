@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0120-triangle) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
@@ -440,6 +442,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
 | [0868-push-dominoes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0868-push-dominoes) |
