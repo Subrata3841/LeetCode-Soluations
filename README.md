@@ -349,6 +349,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -410,6 +411,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## String Matching
