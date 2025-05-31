@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0797-rabbits-in-forest) |
+| [0945-snakes-and-ladders](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0966-binary-subarrays-with-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1034-subarrays-with-k-different-integers) |
@@ -370,6 +371,7 @@
 | [0684-redundant-connection](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0820-find-eventual-safe-states) |
+| [0945-snakes-and-ladders](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
@@ -441,6 +443,7 @@
 | ------- |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2685-first-completely-painted-row-or-column) |
