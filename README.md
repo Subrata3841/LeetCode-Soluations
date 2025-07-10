@@ -76,6 +76,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3639-zero-array-transformation-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
 |  |
@@ -206,6 +207,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
@@ -515,6 +517,7 @@
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3548-find-the-count-of-good-integers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
