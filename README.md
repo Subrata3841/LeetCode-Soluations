@@ -123,6 +123,7 @@
 | [0797-rabbits-in-forest](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2050-count-good-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2610-closest-prime-numbers-in-range) |
@@ -539,4 +540,5 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0141-linked-list-cycle) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
