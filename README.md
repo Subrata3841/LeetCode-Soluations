@@ -177,6 +177,7 @@
 | [3194-find-words-containing-character](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3194-find-words-containing-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3396-valid-word](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3629-total-characters-in-string-after-transformations-i) |
