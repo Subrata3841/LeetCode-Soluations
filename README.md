@@ -547,4 +547,8 @@
 | [0002-add-two-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0141-linked-list-cycle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
