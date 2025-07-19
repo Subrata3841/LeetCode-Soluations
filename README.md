@@ -36,6 +36,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
@@ -167,6 +168,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0868-push-dominoes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -381,6 +383,7 @@
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -457,6 +460,7 @@
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
