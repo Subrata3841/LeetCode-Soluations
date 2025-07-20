@@ -47,6 +47,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -151,6 +152,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2308-divide-array-into-equal-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2479-meeting-rooms-iii) |
@@ -173,6 +175,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2465-shifting-letters-ii) |
@@ -461,6 +464,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -469,6 +473,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
