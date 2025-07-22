@@ -563,4 +563,5 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0196-delete-duplicate-emails) |
+| [1179-game-play-analysis-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
