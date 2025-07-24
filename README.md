@@ -56,6 +56,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2465-shifting-letters-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2465-shifting-letters-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2479-meeting-rooms-iii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -112,6 +113,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2308-divide-array-into-equal-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2509-minimize-xor](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -367,6 +369,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0783-search-in-a-binary-search-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -391,6 +394,7 @@
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
