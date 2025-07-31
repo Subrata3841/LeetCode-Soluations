@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0966-binary-subarrays-with-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1025-minimum-cost-for-tickets) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0090-subsets-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2308-divide-array-into-equal-pairs) |
@@ -265,6 +267,7 @@
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0868-push-dominoes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
