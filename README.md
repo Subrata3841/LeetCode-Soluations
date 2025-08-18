@@ -22,6 +22,7 @@
 | [0322-coin-change](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
+| [0679-24-game](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
@@ -121,6 +122,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0090-subsets-ii) |
+| [0679-24-game](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0679-24-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0326-power-of-three](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0867-new-21-game) |
