@@ -42,6 +42,7 @@
 | [1293-three-consecutive-odds](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -310,6 +311,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1025-minimum-cost-for-tickets) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -558,6 +560,7 @@
 | [0945-snakes-and-ladders](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2685-first-completely-painted-row-or-column) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Recursion
