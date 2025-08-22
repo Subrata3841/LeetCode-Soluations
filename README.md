@@ -88,6 +88,7 @@
 | [3321-type-of-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3430-count-days-without-meetings) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -567,6 +568,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1628-count-submatrices-with-all-ones) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2685-first-completely-painted-row-or-column) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Recursion
 |  |
