@@ -21,6 +21,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0368-largest-divisible-subset) |
+| [0498-diagonal-traverse](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0679-24-game](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -374,6 +375,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -564,6 +566,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0036-valid-sudoku) |
+| [0498-diagonal-traverse](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0945-snakes-and-ladders) |
