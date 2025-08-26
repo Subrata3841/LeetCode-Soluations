@@ -85,6 +85,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3321-type-of-triangle) |
