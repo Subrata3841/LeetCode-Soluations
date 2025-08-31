@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0056-merge-intervals) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0679-24-game) |
@@ -189,6 +191,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0141-linked-list-cycle) |
 | [0797-rabbits-in-forest](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0797-rabbits-in-forest) |
@@ -571,6 +574,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
