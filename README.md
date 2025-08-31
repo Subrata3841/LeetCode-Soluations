@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
@@ -310,6 +311,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0198-house-robber) |
