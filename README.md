@@ -88,6 +88,7 @@
 | [3194-find-words-containing-character](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -181,6 +182,7 @@
 | [2050-count-good-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2610-closest-prime-numbers-in-range) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3548-find-the-count-of-good-integers) |
@@ -302,6 +304,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3321-type-of-triangle) |
@@ -650,6 +653,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0900-reordered-power-of-2) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3548-find-the-count-of-good-integers) |
@@ -686,5 +690,6 @@
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
