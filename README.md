@@ -156,6 +156,7 @@
 | [2509-minimize-xor](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -579,6 +580,7 @@
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -654,6 +656,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
