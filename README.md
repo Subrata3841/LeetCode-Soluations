@@ -231,6 +231,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
