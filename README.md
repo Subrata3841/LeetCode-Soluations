@@ -216,6 +216,7 @@
 | [1006-vowel-spellchecker](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1039-find-the-town-judge) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -243,6 +244,7 @@
 | [0038-count-and-say](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
