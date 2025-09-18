@@ -235,6 +235,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -383,6 +384,7 @@
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3678-design-task-manager](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3678-design-task-manager) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -445,6 +447,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0303-range-sum-query-immutable) |
+| [3678-design-task-manager](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -459,6 +462,7 @@
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
