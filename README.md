@@ -116,6 +116,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -269,6 +271,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3797-design-spreadsheet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -448,6 +451,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0303-range-sum-query-immutable) |
 | [3678-design-task-manager](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
@@ -629,6 +633,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3797-design-spreadsheet) |
 ## Recursion
 |  |
 | ------- |
