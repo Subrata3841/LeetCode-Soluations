@@ -174,6 +174,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0326-power-of-three) |
@@ -214,6 +215,7 @@
 | [0037-sudoku-solver](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0166-fraction-to-recurring-decimal) |
 | [0797-rabbits-in-forest](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0940-fruit-into-baskets) |
@@ -252,6 +254,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0166-fraction-to-recurring-decimal) |
 | [0868-push-dominoes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1264-maximum-number-of-words-you-can-type) |
