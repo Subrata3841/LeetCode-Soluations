@@ -25,6 +25,7 @@
 | [0368-largest-divisible-subset](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0368-largest-divisible-subset) |
 | [0498-diagonal-traverse](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
+| [0611-valid-triangle-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0724-find-pivot-index) |
@@ -286,6 +287,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0611-valid-triangle-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -329,6 +332,7 @@
 | [0056-merge-intervals](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0368-largest-divisible-subset) |
+| [0611-valid-triangle-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0900-reordered-power-of-2) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -683,6 +687,7 @@
 | [0141-linked-list-cycle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Topological Sort
