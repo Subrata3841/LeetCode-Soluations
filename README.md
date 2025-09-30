@@ -72,6 +72,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2308-divide-array-into-equal-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -195,6 +196,7 @@
 | [1448-maximum-69-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2610-closest-prime-numbers-in-range) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -436,6 +438,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2048-build-array-from-permutation) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -707,6 +710,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
