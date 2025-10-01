@@ -194,6 +194,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -437,6 +438,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2048-build-array-from-permutation) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2408-number-of-people-aware-of-a-secret) |
