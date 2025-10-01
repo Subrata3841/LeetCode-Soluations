@@ -257,6 +257,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0166-fraction-to-recurring-decimal) |
 | [0868-push-dominoes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0868-push-dominoes) |
@@ -689,6 +690,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0189-rotate-array) |
