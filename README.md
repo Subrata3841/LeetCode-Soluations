@@ -23,6 +23,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0611-valid-triangle-number) |
@@ -397,6 +398,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2023-design-movie-rental-system) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
@@ -561,6 +563,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0547-number-of-provinces) |
@@ -646,6 +649,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0733-flood-fill) |
