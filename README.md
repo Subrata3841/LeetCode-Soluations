@@ -105,6 +105,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3321-type-of-triangle) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3430-count-days-without-meetings) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -435,6 +436,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3618-find-the-original-typed-string-ii) |
