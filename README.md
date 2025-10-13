@@ -49,6 +49,7 @@
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -240,6 +241,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -278,6 +280,7 @@
 | [1006-vowel-spellchecker](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -358,6 +361,7 @@
 | [0611-valid-triangle-number](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0900-reordered-power-of-2) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
