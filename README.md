@@ -116,6 +116,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3639-zero-array-transformation-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
