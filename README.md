@@ -290,6 +290,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -589,6 +590,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -618,6 +620,7 @@
 | [0945-snakes-and-ladders](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -777,6 +780,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0900-reordered-power-of-2) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
