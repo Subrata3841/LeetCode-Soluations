@@ -193,6 +193,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
@@ -236,6 +237,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3830-find-closest-person) |
