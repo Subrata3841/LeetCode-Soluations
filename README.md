@@ -147,6 +147,7 @@
 | [3797-design-spreadsheet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -492,6 +494,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -596,6 +599,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -657,6 +661,7 @@
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -685,6 +690,7 @@
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -722,6 +728,7 @@
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
 | ------- |
@@ -800,6 +807,7 @@
 | [1073-number-of-enclaves](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
