@@ -94,6 +94,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2685-first-completely-painted-row-or-column) |
@@ -163,6 +164,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -365,6 +367,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -395,6 +398,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2509-minimize-xor](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2509-minimize-xor) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2689-rearranging-fruits) |
@@ -508,6 +512,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -586,6 +591,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/0232-implement-queue-using-stacks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3827-implement-router) |
