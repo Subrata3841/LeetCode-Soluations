@@ -147,6 +147,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -307,6 +308,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -409,6 +411,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -576,6 +579,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
@@ -624,6 +628,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
 | ------- |
