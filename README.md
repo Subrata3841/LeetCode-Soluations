@@ -102,6 +102,7 @@
 | [2689-rearranging-fruits](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2689-rearranging-fruits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2868-continuous-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2868-continuous-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -245,6 +246,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2610-closest-prime-numbers-in-range) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3321-type-of-triangle) |
@@ -856,6 +858,7 @@
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2610-closest-prime-numbers-in-range) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
