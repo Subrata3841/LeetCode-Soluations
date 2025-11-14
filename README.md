@@ -96,6 +96,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2685-first-completely-painted-row-or-column) |
@@ -526,6 +527,7 @@
 | [2465-shifting-letters-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -797,6 +799,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/2685-first-completely-painted-row-or-column) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Subrata3841/LeetCode-Soluations/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
